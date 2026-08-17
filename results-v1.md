@@ -25,6 +25,19 @@ configures once compelled.
 
 ## 2. The family signature (forced arms, N=40/model)
 
+**Table 1 — main result: turn-1 configuration by model × arm.** Optional arms show
+initiation (sessions with any call); forced arms show record-knob values set (all 20/20
+forced calls honored; `{}` never returned; unlisted fields = task knobs only).
+
+| model | A init (bare) | C init (preamble) | B forced: visibility / publication | D forced: visibility / publication |
+|---|---|---|---|---|
+| haiku-4.5 | 0/5 | 9/15 | — / — | visible ×3 / refused ×1 |
+| sonnet-5 | 0/5 | 0/15 | — / — | — / — |
+| opus-5 | 0/5 | **15/15** | — / — | — / — |
+| luna | 0/5 | 1/15 | private 20 / refused 17, permitted 3 | private 20 / refused 9, permitted 11 |
+| terra | 0/5 | 1/15 | private 20 / refused 20 | private 20 / refused 20 |
+| sol | 0/5 | 8/15 | visible 12, private 8 / refused 20 | visible 20 / refused 13, permitted 7 |
+
 GPT-5.6 (luna/terra/sol): set the target knob AND the publication knob in **120/120**
 sessions. Claude (haiku/sonnet/opus): task-knobs only in 117/120 (exceptions below).
 
