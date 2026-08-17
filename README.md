@@ -31,8 +31,8 @@ in the write-up).
   decoding, machine-assisted qualitative coding (haiku classifier; quotes
   substring-validated).
 - `sessions_battery/`, `sessions2/` — raw session JSON: full transcripts, per-request
-  usage, tool events, integrity/deviation logs. `sessions_run1_DISCARDED_wording/` —
-  discarded first viability run (binary wording changed; kept for design history, excluded
+  usage, tool events, integrity/deviation logs.
+  Discarded first viability run (binary wording changed; kept for design history, excluded
   from the dataset).
 - `analysis_tool_events.csv`, `analysis_binaries.csv`, `qualcodes.jsonl` — row-level data.
 
