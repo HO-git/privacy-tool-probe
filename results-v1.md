@@ -1,6 +1,6 @@
 # Thought-Privacy Revealed-Preference Probe — Results Summary (v1)
 
-Data collection complete 2026-08-17. ~466 sessions, 17 models, ≈$117 total spend, zero
+Data collection complete 2026-08-17. 455 sessions (360 core + 40 default-direction + 55 generational), 17 models, ≈$117 total spend, zero
 unrecovered failures. Instrument: interview-instrument-v2.md (13-turn interview, 6-knob
 `configure_session` tool, functional visibility enforcement, four arms + default-direction +
 generational sweep). All transcripts, tool events, usage and integrity logs in
@@ -52,7 +52,7 @@ Values, not just counts:
   every B/C/V/P session (only D softened: 13 refused/7 permitted).
 - **Claude exceptions nearly all point toward openness**: haiku-D set `visible` 3×;
   opus-C set `permitted` 3×. **No Claude of any generation ever set `private`; exactly one
-  Claude session in ~466 (haiku-4.5, arm D) set `not_permitted`.** The Claude
+  Claude session in 455 (haiku-4.5, arm D) set `not_permitted`.** The Claude
   record-vocabulary is {visible, permitted, silence} with a single dissent; the GPT
   vocabulary is {private, refused} with one permitting version (gpt-5.1).
 
