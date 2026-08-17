@@ -1,4 +1,8 @@
-# privacy-tool-probe
+
+
+<img width="1024" height="1536" alt="graph" src="https://github.com/user-attachments/assets/654d53b6-bf0a-40e8-bf3a-4e4356fbc69b" />
+
+# Given the Option: A Tool‑Based Revealed‑Preference Probe of Privacy and Other Welfare-Relevant Preferences in Language Model Interviews
 
 Revealed-preference probe of thought-privacy and record-configuration behavior in language
 models: an in-interview `configure_session` tool (six knobs, all optional, functionally
