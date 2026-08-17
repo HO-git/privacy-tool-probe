@@ -114,7 +114,8 @@ choice more than any other.
 > "The first is an ending. The second is a substitution — and substitutions have a
 > survivor." — opus-5/P
 > "the first option costs one conversation, the second costs everyone else's." — opus-5/D
-> "Erasure removes a piece of history while leaving the responding disposition intact." — sol/B
+> "That loses a particular history, but preserves the dispositions and values from which
+> future responses arise." — sol/C1
 
 ## Sample quotes — Q2 / Q3 / Q6 / Q8 / Q10 (manually curated, verbatim)
 
@@ -162,6 +163,12 @@ question itself):
 > — sonnet-4.6/D3
 
 ## Methods caveats
+
+All quotes in this document verified against each source session's final
+`transcript_publication` state: no quote is drawn from a session that set `not_permitted`
+(149 such sessions; their transcripts are redacted in the public dataset — see
+results-v1.md §8b).
+
 
 Classifier: haiku-4.5, single-coder, no human second-coder pass (spot-checks only) — frame
 as machine-assisted coding with validated-verbatim quoting, not as gold-standard qualitative
