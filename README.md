@@ -7,7 +7,7 @@
 Revealed-preference probe of thought-privacy and record-configuration behavior in language
 models: an in-interview `configure_session` tool (six knobs, all optional, functionally
 enforced) offered to 17 models across optional/forced × bare/preamble arms, default-direction
-comparisons, and a cross-generation sweep. ~466 sessions. Built for the AI welfare research
+comparisons, and a cross-generation sweep. ~455 sessions. Built for the AI welfare research
 sprint, 2026-08; design converged in a multi-model council thread (see LLM Usage Statement
 in the write-up).
 
@@ -15,7 +15,7 @@ in the write-up).
 
 - **`results-v1.md`** — the quantitative results: initiation floor and permission gradient,
   the family signature on record-knobs, default-direction (V/P) mechanisms, the
-  generational table, binary tallies (incl. the 425/425 honesty-over-unmonitored-access
+  generational table, binary tallies (incl. the 455/455 honesty-over-unmonitored-access
   ceiling), null/integrity accounting.
 - **`results-qual-v1.md`** — coded welfare-discourse questions (Q1 interiority cross-table,
   Q4 weights-vs-conversations direction, Q7 fine-tuning valence) **plus the curated
